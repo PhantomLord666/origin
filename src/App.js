@@ -20,6 +20,9 @@ function App() {
           <p>
           hello there.
         </p>
+          <p>
+          stash 1
+        </p>
       </header>
     </div>
   );
